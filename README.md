@@ -1,4 +1,4 @@
-js-piano
+Chorgel
 ========
 
 A simple Javascript piano.
@@ -20,3 +20,10 @@ Ogg-format audio samples are known to work in Firefox and Chrome.
 
 Samples are provided by the University of Iowa's Electronic Music Studio:
 http://theremin.music.uiowa.edu/MISpiano.html
+
+new features coming up:
+    - new css
+    - new tunes
+    - demo
+    - record
+    
